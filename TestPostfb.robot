@@ -5,8 +5,8 @@ ${browser}                 chrome
 ${url}                      https://www.facebook.com/
 ${USERNAME TEXTBOX}         css=#email
 ${PASSWORD TEXTBOX}         css=#pass
-${USERNAME}                 famedemonic@gmail.com
-${PASSWORD}                 fame5921
+${USERNAME}                 
+${PASSWORD}                 
 ${POST BUTTON}              //div[@class="m9osqain a5q79mjw gy2v8mqq jm1wdb64 k4urcfbm qv66sw1b"]
 ${POST TEXT}                //div[@class="rq0escxv buofh1pr df2bnetk hv4rvrfc dati1w0a l9j0dhe7 k4urcfbm du4w35lb gbhij3x4"]
 ${TEXT}                     Hello Robot
